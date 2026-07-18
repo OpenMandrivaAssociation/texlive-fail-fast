@@ -1,9 +1,9 @@
 %global tl_name fail-fast
-%global tl_revision 67543
+%global tl_revision 79671
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	0.0.2
+Version:	0.1.0
 Release:	%{tl_revision}.1
 Summary:	Turn warnings into errors
 Group:		Publishing
